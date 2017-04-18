@@ -1,0 +1,37 @@
+ .blue {
+  color: blue;
+}
+
+.large {
+  font-size: 2em;
+}
+
+.bordered {
+  border: 2px dotted purple;
+}
+
+.rounded {
+  border-radius: 10px;
+}
+
+#obi-wan {
+  font-family: Helvetica;
+  padding: 5px;
+}
+
+.red {
+  color: red;
+}
+
+.gif {
+	background-image: url(img/obi-wan-message.gif);
+	width: 300px;
+	height: 150px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	color: rgba(225,225,225, 0);
+}
+
+.invisible {
+	visibility: hidden;
+}
